@@ -1,0 +1,9 @@
+Alessio Bonatesta (ID: 08313A)
+
+Enrolled in the master's degree course in Computer Science.
+
+-------------------------
+
+- The project published here (project.ipynb) and its colab version (link in the txt file) are slightly different as regards the download and extraction of the dataset, otherwise everything is the same.
+
+- The figures in the report may show different results because the whole notebook was re-run after the report was written, finding slightly different values.
